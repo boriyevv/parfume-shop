@@ -1,0 +1,135 @@
+{
+    "newProducts":[
+        {
+            "img": "https://thrive-causemetics.imgix.net/6dH5mzP6NDcwZfbYT2XdQK/1bacc7bd4010ef90943f49ffa9680119/PDP_Mascara_Brynn.jpg?w=774&auto=format",
+            "title": "All Natural Makeup Beauty Cosmetics",
+            "price": 11,
+            "id": "1"
+        },
+        {
+            "img": "https://perbellecosmetics.com/wp-content/uploads/2018/11/2_CC_CREAM-new.jpg",
+            "title": "On Trend Makeup and Beauty Cosmetics",
+            "price": 13,
+            "id": "2"
+        },
+        {
+            "img": "https://media.ilmakiage.com/media/catalog/product/cache/1/image/538x538/9df78eab33525d08d6e5fb8d27136e95/6/6/66060_new_1.jpg",
+            "title": "The Cosmetics and Beauty brand Shoppe",
+            "price": 21,
+            "id": "3"
+        },
+        {
+            "img": "https://cdn.shopify.com/s/files/1/0081/4684/5756/products/151ea748e347becb62bf2f5c7ccb76b3-VC-001_720x.jpg?v=1652981965",
+            "title": "Nourishmax  lorem ipsum dolor sit",
+            "price": 47,
+            "id": "4"
+        }
+    ],
+    "upcoming":[
+    
+        {
+            "img": "https://wow.maelyscosmetics.com/api/assets/maelys-ec//77d5a8fe-ad1a-4ac4-9a01-3c3f1c0e26e5",
+            "title": "ICONS The Full Body Bundle B-Thicc",
+            "price": 99,
+            "id": "5"
+        },
+        {
+            "img": "https://cdn-tp3.mozu.com/30113-50133/cms/50133/files/62cc032f-4fd1-4137-8825-d8452923f303?max=550&_mzcb=_1676011007383",
+            "title": "Proactiv Solution® 3-Step Routine - 30 day","price": 24.9,
+            "id": "6"
+        },
+        {
+            "img": "https://wow.maelyscosmetics.com/api/assets/maelys-ec//f511a52b-74ba-4db8-80c8-ae342059667f",
+            "title": "B-THICC Booty Enhancing Mask",
+            "price": 49,
+            "id": "7"
+        },
+        {
+            "img": "https://s3-us-west-2.amazonaws.com/cdn.citybeauty.com/images/icbb/icbb-product-1.jpg",
+            "title": "InvisiCrepe™ Body Balm City-Beaty",
+            "price": 59,
+            "id": "8"
+        }
+        ],
+        "onsale":[
+            {
+                "img": "https://cdn11.bigcommerce.com/s-gud7r2x2lu/images/stencil/640w/products/726/5500/Best_Sellers_Duo_Primary__13961.1648227239.jpg?c=2",
+                "title": "NIACINAMIDE AND RETINOID POWER",
+                "price": 117,
+                "id": "9"
+            },
+            {
+            "img": "https://cdn.shopify.com/s/files/1/2596/0058/products/Complexion-Drops_810102032454_01_AtelierXI.5.jpg?v=1673040642&width=800",
+            "title": "Vital Skincare Complexion Drops",
+            "price": 17,
+            "id": "10"
+        },
+        {
+            "img": "https://cdn.cliqueinc.com/posts/295857/makeup-skincare-hybrids-295857-1634852343269-main.700x0c.jpg",
+            "title": "These Makeup-Skincare Hybrids",
+            "price": 56,
+            "id": "11"
+        },
+        {
+            "img": "https://cdn.cliqueinc.com/posts/295857/makeup-skincare-hybrids-295857-1634836765891-main.700x0c.jpg",
+            "title": "These Makeup-Skincare Hybrids",
+            "price": 93,
+            "id": "12"
+        }
+        
+    ],
+    "arrivalProducts2":[
+        {
+            "img": "https://www.sk-ii.com/content/assets/images/product/lxp-ultimate-revival-cream/new-hero/lxp-ultimate-revival-cream-desktop.png",
+            "title": "LXP sk-|| Ultimate Revival Cream",
+            "price": 78,
+            "id": "13"
+        },
+        {
+            "img": "https://publish.purewow.net/wp-content/uploads/sites/2/2022/12/10-Products-for-Sensitive-Skin-La-Roche-Posay.jpg?resize=720%2C780",
+            "title": "Best Products for Sensitive Skin",
+            "price": 18,
+            "id": "14"
+        },
+        {
+            "img": "https://imagena.loccitane.com/dw/image/v2/BDQL_PRD/on/demandware.static/-/Sites-occ_master/default/dw135583e9/US/27DC050I20.png?sw=500&sh=500",
+            "title": "LOCCITANE immortille divine creme",
+            "price": 117,
+            "id": "15"
+        },
+        {
+            "img": "https://wow.maelyscosmetics.com/api/assets/maelys-ec//36b9fd5e-c7bb-479a-bd79-48097939681e",
+            "title": "GOAL DIGGERS The Enhancing Bundle",
+            "price": 127,
+            "id": "16"
+        }
+        
+    ],
+
+    "arrivalProducts1":[
+        {
+            "img": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12053028-5704882135372731.jpg",
+            "title": "Sunday Riley C.E.O. Glow Vitamin C Turmeric",
+            "price": 80,
+            "id": "17"
+        },
+        {
+            "img": "https://www.instyle.com/thmb/g6HvOcfTJAPhm2IUZdw5_EcaANU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/041221_concealers_embed-0499776ef33b41d5934b7dcfeae18891.jpg",
+            "title": "B-THICC Booty Enhancing Mask",
+            "price": 21,
+            "id": "18"
+        },
+        {
+            "img": "https://akns-images.eonline.com/eol_images/Entire_Site/20211015/rs_1200x1200-211115191012-1200-E-Comm-Viral-Tik-Tok-Products-1.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+            "title": "Sunday Riley C.E.O. Glow Vitamin C Turmeric",
+            "price": 56,
+            "id": "19"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PA1zTLl_dUZFEGRVB83ilwKILcf6EMX-Dw&usqp=CAU",
+            "title": "Sugar Tulip Enhancing skin care product",
+            "price": 35,
+            "id": "20"
+        }
+    ]
+}
